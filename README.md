@@ -1,2 +1,2 @@
-# For Palestine
-For Palestine, against the  ethnic cleansing
+# Stand for Palestine
+a resource kit from the people of Disarming Design
