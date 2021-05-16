@@ -1,6 +1,6 @@
 # Stand for Palestine
 
-[Sample](Web-use/1280×640px.png)
+![Sample](Web-use/1280×640px.png)
 
 The momentum which started with social media documentation of crimes committed against Palestinians in Jerusalem, Gaza, The West Bank and the occupied land of Palestine has catalyzed a historical moment which is ripe for transformation.  
 
